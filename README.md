@@ -26,7 +26,7 @@
 
 <!-- ---------------------------- Socials Badge/Icons ---------------------------- -->
 <div align="center">
-  <a href="mailto:choylim06@gmail.com">
+  <a href="mailto:ashleyjessica848@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
   </a>
   <a href="https://www.linkedin.com/in/ashley-jessica-torrefiel-78a64a26a/" target="_blank">
@@ -57,9 +57,7 @@
 <h2 align="center">🛠️ Languages / Frameworks / Tools Used 🛠️</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,py,django,fastapi,java,kotlin,go" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,firebase,postgres,postman,figma,github,git" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,react,vue,html,css,js,ts,mysql,github,git" />
   </a>
 </div>
 
