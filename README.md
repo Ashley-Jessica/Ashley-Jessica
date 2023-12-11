@@ -57,7 +57,9 @@
 <h2 align="center">🛠️ Languages / Frameworks / Tools Used 🛠️</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,react,vue,html,css,js,ts,mysql,github,git" />
+    <img src="https://skillicons.dev/icons?i=flutter,react,vue,mysql" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=dart,html,css,js,ts,github,git" />
   </a>
 </div>
 
