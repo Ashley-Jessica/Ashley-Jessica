@@ -16,11 +16,11 @@
 <!-- ---------------------------- Projects & Stacks ---------------------------- -->
 <div align="center">
   
-  📱 I am currently working on mobile development projects.
+  📱 I enjoy building websites and web applications using several languages.
   
-  👨‍💻 I mainly use flutter and riverpod as my tech stack.
+  👨‍💻 I have deep knowledge on vue js and typescript.
   
-  🖥️ I do backend development using django rest and fastapi.
+  🖥️ I am currently a frontend developer, seeking to upskill by learning backend languages.
   
 </div>
 
