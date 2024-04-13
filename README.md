@@ -18,7 +18,7 @@
   
   📱 I enjoy building websites and web applications using several languages.
   
-  👨‍💻 I have deep knowledge on vue js and typescript.
+  👨‍💻 I have deep knowledge on vue js, typescript, flutter and dart.
   
   🖥️ I am currently a frontend developer, seeking to upskill by learning backend languages.
   
